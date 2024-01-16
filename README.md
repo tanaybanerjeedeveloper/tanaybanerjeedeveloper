@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tanaybanerjeedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanaybanerjeedev" height="30" width="40" /></a>
 <a href="https://hashnode.com/@tanaybanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@tanaybanerjee" height="30" width="40" /></a>
-<a href="/https://iamtanaybanerjee.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://iamtanaybanerjee.hashnode.dev/" height="30" width="40" /></a>
+<!-- <a href="/https://iamtanaybanerjee.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://iamtanaybanerjee.hashnode.dev/" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
